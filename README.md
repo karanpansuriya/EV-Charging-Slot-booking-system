@@ -21,9 +21,6 @@ This system allows users to:
   - HTML, CSS, SCSS, LESS for layout and styling  
   - JavaScript for interactivity and dynamic updates
 
-- **Backend**:  
-  - PHP (for booking logic, data handling, server communication)
-
 ---
 
 ## 📋 Features
@@ -105,13 +102,6 @@ npm install -g sass less
 
 ---
 
-## 🛡️ Security & Privacy
-
-- All booking data is handled securely.
-- No personal information is shared with third parties.
-- For production, ensure HTTPS and sanitize user inputs.
-
----
 
 ## 🤝 Contributing
 
@@ -121,11 +111,6 @@ We welcome contributions!
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 📬 Contact
 
@@ -134,4 +119,4 @@ MIT License
 
 ---
 
-> **Ready to power up your EV experience? Try booking a slot and join the future of green mobility!**
+
