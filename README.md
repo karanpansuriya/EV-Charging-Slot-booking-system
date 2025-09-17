@@ -14,7 +14,6 @@ This system allows users to:
 - Experience a responsive, modern UI for seamless navigation
 
 ---
-[Uploading prototype.pdf…]()
 
 ## 🛠️ Tech Stack
 
